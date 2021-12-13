@@ -1,0 +1,18 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  max-height: 20rem;
+}
+
+.container > p {
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+/*# sourceMappingURL=loosers.css.map */

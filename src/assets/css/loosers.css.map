@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EAEb,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,MAAM;EACvB,UAAU,EAAE,KAAK;CAMlB;;AAXD,AAME,UANQ,GAMJ,CAAC,CAAC;EACJ,OAAO,EAAE,MAAM;EACf,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CAClB",
+    "sources": [
+        "../scss/loosers.scss"
+    ],
+    "names": [],
+    "file": "loosers.css"
+}

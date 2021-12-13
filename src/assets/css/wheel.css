@@ -1,0 +1,48 @@
+.wheelContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 60vh;
+}
+
+.btnWrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 2rem;
+}
+
+.btnWrapper .btn {
+  background-color: yellow;
+  border-radius: 10px;
+  color: black;
+  width: 40%;
+  height: 3rem;
+  font-size: 1rem;
+  font-weight: bold;
+  -webkit-box-shadow: 0px 8px 15px rgba(12, 11, 11, 0.39);
+          box-shadow: 0px 8px 15px rgba(12, 11, 11, 0.39);
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.btnWrapper .btn:hover {
+  background-color: white;
+  -webkit-box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+          box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #000;
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+}
+/*# sourceMappingURL=wheel.css.map */
