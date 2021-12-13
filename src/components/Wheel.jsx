@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Wheel } from "react-custom-roulette";
 import { useDispatch, useSelector } from "react-redux";
 import { getUser, deletePlayer } from "../store/action/usersActions";
-import Players from "./ListPlayers";
+// import Players from "./ListPlayers";
 import Banner from "./Banner";
 import "../assets/css/wheel.css";
 
